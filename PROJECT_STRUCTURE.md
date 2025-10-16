@@ -7,7 +7,7 @@ This document outlines the complete structure of the GCP Security Scanner projec
 ```
 learning-google-cloud-platform/
 │
-├── 300/README.md                          # Main documentation
+├── 300/README.md                      # Main documentation
 ├── PROJECT_STRUCTURE.md               # This file
 ├── LICENSE                            # MIT License
 ├── .gitignore                         # Git ignore rules
